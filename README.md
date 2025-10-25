@@ -134,8 +134,6 @@ streamlit run app/resource/main.py
 4. Add simple tests for `clean_text` and portfolio ingestion.
 5. Add pre-commit secret scanning hook.
 
-## 14. License
-Provide your chosen license here (e.g., MIT). Clarify any upstream inspiration attribution.
 
 ---
 Happy building!
